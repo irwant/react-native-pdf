@@ -20,7 +20,8 @@ import android.net.Uri;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.graphics.Canvas;
-
+import android.graphics.pdf.PdfRenderer;
+import android.os.ParcelFileDescriptor;
 
 import com.facebook.react.uimanager.ThemedReactContext;
 import com.facebook.react.uimanager.UIManagerHelper;
